@@ -134,7 +134,7 @@
       "groupId": "resolution",
       "name": "4K Ultra HD",
       "pattern": "(?i)\\b(4k|2160p|uhd|ultra\\s*hd)\\b",
-      "imageURL": "https://raw.githubusercontent.com/dondon1975/Badges/refs/heads/main/Badgeslogos/4kuhdd.jpg",
+      "imageURL": "https://raw.githubusercontent.com/dondon1975/Badges/refs/heads/main/Badgeslogos/4kuhf.jpg",
       "tagColor": "#000000",
       "borderColor": "rgba(0,0,0,0)",
       "textColor": "#00000000",
