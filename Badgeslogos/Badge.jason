@@ -277,7 +277,7 @@
       "groupId": "video-codec",
       "name": "HEVC",
       "pattern": "(?i)\\b(hevc|h[\\s._-]?265|x265)\\b",
-      "imageURL": "https://raw.githubusercontent.com/dondon1975/Badges/refs/heads/main/Badgeslogos/H265.jpg",
+      "imageURL": "https://raw.githubusercontent.com/dondon1975/Badges/refs/heads/main/Badgeslogos/H2265.jpg",
       "tagColor": "#000000",
       "borderColor": "#00000000",
       "textColor": "#00000000",
