@@ -432,7 +432,7 @@
       "id": "51-audio",
       "groupId": "audio-channels",
       "name": "5.1 Audio",
-      "pattern": "(5\\.1|5\\s1.|\\d+\\.\\d+.|6ch)",
+      "pattern": "(5\\.1|5\\s1|\\d+\\.\\d+.|6ch)",
       "imageURL": "https://raw.githubusercontent.com/leonevz/Elite-Badges/main/Badges/5_1_audio.png",
       "tagColor": "#00000000",
       "borderColor": "#00000000",
